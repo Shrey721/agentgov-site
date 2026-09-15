@@ -165,3 +165,6 @@ The site keeps the four-clause principle end to end:
 
 Observed behavior is never treated as authorization. The scanner proposes a catalog; a
 person approves the operating boundary; runtime evidence shows what actually happened.
+
+
+## Deployed Vercel URL: 
